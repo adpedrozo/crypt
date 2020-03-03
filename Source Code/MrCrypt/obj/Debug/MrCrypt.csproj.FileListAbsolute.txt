@@ -1,0 +1,17 @@
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\bin\Debug\MrCrypt.exe.config
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\bin\Debug\MrCrypt.exe.manifest
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\bin\Debug\MrCrypt.application
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\bin\Debug\MrCrypt.exe
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\bin\Debug\MrCrypt.pdb
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.FormCreditos.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.FormOperation2.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.FormOperation1.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.FormPrincipal.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.Properties.Resources.resources
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.csproj.GenerateResource.cache
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.TrustInfo.xml
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.exe.manifest
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.application
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.exe
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.pdb
+C:\Users\apedrozo\Documents\Desarrollo\dotNET\MrCrypt (ENG)\MrCrypt\obj\Debug\MrCrypt.csprojAssemblyReference.cache
