@@ -9,8 +9,8 @@
 Recommended Requirements:
 *************************
 
-	Microsoft Windows 7 or better.
-	4 GB de RAM or better.
+	Microsoft Windows 7 or later.
+	4 GB RAM.
 	CPU Dual Core 2 GHz or better.
 	.NET Framework 4.7 recommended.
 
